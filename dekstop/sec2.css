@@ -1,0 +1,65 @@
+
+.walas p{
+    position: absolute;
+    top: 800px;
+    left: 515px;
+    color: black;
+   
+}
+.walas p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    background-color: white;
+    border-radius: 6px;
+    padding: 2px;
+    box-shadow: 0 0 20px black;
+}
+
+.walas p1{
+    position: absolute;
+    top: 840px;
+    left: 470px;
+    background-color: white;
+    border-radius: 6px;
+    padding: 2px;
+    box-shadow: 0 0 20px black;
+}
+.walas p1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: black;
+}
+.container img{
+    width: 80%;
+    position: relative;
+    left: 120px;
+    top: 120px;
+}
+
+.container2 h4{
+    color: rgb(0, 0, 0);
+    box-shadow:  5px 5px 10px rgb(0, 0, 0);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16px;
+    position: relative;
+    left: -200px;
+    top:300px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 6px;
+}
+.container2 h5{
+    color: black;
+    box-shadow:  5px 5px 10px rgb(0, 0, 0);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16px;
+    position:relative;
+    left: 600px;
+    top: -70px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 6px;
+    
+}
+
